@@ -11,3 +11,6 @@ public class Workshop15Application {
 	}
 
 }
+
+
+// mvn spring-boot:run -Dspring-boot.run.arguments=--dataDir=/Users/trix/Desktop/SSF/workshop15/data
